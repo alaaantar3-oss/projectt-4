@@ -678,6 +678,14 @@ p{
     height: 700px;
     
 }
+.btn-photos{
+       color: #000000;
+    background: none;
+    border: none;
+    font-size: 17px;
+    text-transform: capitalize;
+     cursor: pointer;
+}
 .photo::before{
     content: " ";
     position: relative;
@@ -806,3 +814,4 @@ p{
     opacity: 1;
 
 }
+
